@@ -6,11 +6,11 @@ Has Anti Sandboxie and Anti Virtual Machine \
 No Startup \
 Educational Purposes only 
 Supports: 
-btc  
-eth
-xmr
-doge
-lte
-ripple
-dash
-bch
+btc \ 
+eth \
+xmr \
+doge \
+lte \
+ripple \
+dash \
+bch \
