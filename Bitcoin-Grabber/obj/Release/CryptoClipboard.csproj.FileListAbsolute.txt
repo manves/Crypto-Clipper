@@ -1,0 +1,5 @@
+C:\Users\Admin\Downloads\clipper-malware-master\Bitcoin-Grabber\bin\Release\CryptoClipboard.exe
+C:\Users\Admin\Downloads\clipper-malware-master\Bitcoin-Grabber\bin\Release\CryptoClipboard.pdb
+C:\Users\Admin\Downloads\clipper-malware-master\Bitcoin-Grabber\obj\Release\CryptoClipboard.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\clipper-malware-master\Bitcoin-Grabber\obj\Release\CryptoClipboard.exe
+C:\Users\Admin\Downloads\clipper-malware-master\Bitcoin-Grabber\obj\Release\CryptoClipboard.pdb
