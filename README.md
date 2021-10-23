@@ -1,6 +1,6 @@
 # Crypto-Clipper
 
-Crypto Clipper based off of Nyan Cat's \n
+Crypto Clipper based off of Nyan Cat's\
 Added updated regex for bitcoin that supports bech32 and legacy \n
 Has Anti Sandboxie and Anti Virtual Machine \n
 No Startup \n
